@@ -1,10 +1,10 @@
 # FindYourPlace
 <p align="center">
-  <img width="200" src="https://github.com/Pietro1377/FindYourPlace_IS/assets/145977055/58143a00-a556-4cd0-9471-35ebb1a24edd">
+  <img width="200" src="https://github.com/AlessandroNacchia/FindYourPlace_FIA/assets/173490402/e32dc412-b3fd-4465-98aa-04566830fb1e">
 </p>
 Repository per il progetto FindYourPlace per l'esame di Fondamenti di Intelligenza Artificiale <br>(Corso di Informatica - UniSA)<br><br>
 In questa repository è contenuto il lavoro dedicato alla creazione del modulo di IA usato nel sistema FindYourPlace.<br>
-<p><a href="https://github.com/Pietro1377/FindYourPlace_IS">Link al progetto del sistema FindYourPlace</a></p>
+<p><a href="https://github.com/AlessandroNacchia/FindYourPlace_IS">Link al progetto del sistema FindYourPlace</a></p>
 
 # Autori
 + Pietro Esposito - p.esposito62@studenti.unisa.it
@@ -13,4 +13,4 @@ In questa repository è contenuto il lavoro dedicato alla creazione del modulo d
 
 # Informazioni
 Questo è un modulo scritto in Python specificatamente usato all'interno del progetto FindYourPlace.<br>
-Per ulteriori informazioni sul suo uso, fare riferimento alla repository del [progetto FYP](https://github.com/FireLion137/FindYourPlace_IS)
+Per ulteriori informazioni sul suo uso, fare riferimento alla repository del [progetto FYP](https://github.com/AlessandroNacchia/FindYourPlace_IS)
